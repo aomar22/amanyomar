@@ -10,7 +10,7 @@ From healthcare to code — I build digital tools that support accessible care f
 - Exploring AI-powered tools for public health
 
 ### Background
--  Dentistry (Egypt) → 📋 Healthcare admin + vaccine outreach (Canada) → 🧑‍💻 Software development
+-  Dentistry (Egypt) → Healthcare admin + vaccine outreach (Canada) → Software development
 -  Student at Seneca College, Computer Programming & Analysis program
 
 ### Connect with me
